@@ -1,0 +1,11 @@
+@charset "utf-8";
+body{
+ font-size:120%;
+ line-height:1.5; 
+}
+table{
+ color:#B70FD8;
+}
+h1 {color: #A33CD6}
+img {display:block; margin:auto;}
+h2 {color: #ED9810}
